@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(227, 215, 134);
+    h1 {
+        color: #c91504;
+        font-size: 35px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    p {
+        text-align: left;
+        color:rgb(112, 66, 20);
+    }
+    td {
+        text-align: right;
+        color:rgb(112, 66, 20);
+    }
+    li {
+        text-align: left;
+        color:rgb(112, 66, 20);
+    }
+    h2 {
+        text-align: center;
+        color:rgb(112, 66, 20);
+    }
+    img {
+        border: 2px dashed rgb(0, 119, 255);
+      }
+  }
+  
